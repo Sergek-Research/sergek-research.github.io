@@ -158,7 +158,7 @@ const HomePage: React.FC = () => {
       build: (
         <>
           <Text strong>
-            {intl.formatMessage(messages.buildOpenSourcePTTJS)}
+            {intl.formatMessage(messages.buildOpenSourcePTTJS)}{' '}
           </Text>
           {intl.formatMessage(messages.buildOpenSourceRest)}
         </>
