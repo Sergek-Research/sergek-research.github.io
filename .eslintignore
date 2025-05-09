@@ -1,0 +1,8 @@
+node_modules
+dist
+package-lock.json
+webpack.config.ts
+postcss.config.js
+tailwind.config.ts
+orval.config.js
+src/hooks/generated
