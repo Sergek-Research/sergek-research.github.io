@@ -18,7 +18,7 @@ const HeaderMenu: React.FC = () => {
       <Space size="middle" align="center">
         <LanguageSwitcher />
         <Link
-          href="https://github.com/your-repo"
+          href="https://github.com/Sergek-Research"
           target="_blank"
           rel="noopener noreferrer">
           <Avatar
