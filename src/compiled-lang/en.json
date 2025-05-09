@@ -1,0 +1,210 @@
+{
+  "88fYU4": [
+    {
+      "type": 0,
+      "value": "English"
+    }
+  ],
+  "CO4JwJ": [
+    {
+      "type": 0,
+      "value": "Русский"
+    }
+  ],
+  "home.aboutUsListItem1": [
+    {
+      "type": 0,
+      "value": "conduct fundamental and applied research on neural network architectures;"
+    }
+  ],
+  "home.aboutUsListItem2": [
+    {
+      "type": 0,
+      "value": "develop efficient algorithms and tools for real-world businesses;"
+    }
+  ],
+  "home.aboutUsListItem3": [
+    {
+      "type": 0,
+      "value": "openly share knowledge and code with the community."
+    }
+  ],
+  "home.aboutUsP1": [
+    {
+      "type": 1,
+      "value": "sergekResearchBold"
+    },
+    {
+      "type": 0,
+      "value": " is a Kazakhstan-based research company building "
+    },
+    {
+      "type": 1,
+      "value": "nextGenBold"
+    },
+    {
+      "type": 0,
+      "value": " products and solutions at the intersection of "
+    },
+    {
+      "type": 1,
+      "value": "mlItalic"
+    },
+    {
+      "type": 0,
+      "value": ", "
+    },
+    {
+      "type": 1,
+      "value": "dlItalic"
+    },
+    {
+      "type": 0,
+      "value": ", and adjacent disciplines. We"
+    }
+  ],
+  "home.aboutUsP1.dl": [
+    {
+      "type": 0,
+      "value": "deep learning"
+    }
+  ],
+  "home.aboutUsP1.ml": [
+    {
+      "type": 0,
+      "value": "machine learning"
+    }
+  ],
+  "home.aboutUsP1.nextGen": [
+    {
+      "type": 0,
+      "value": "next-gen"
+    }
+  ],
+  "home.aboutUsP1.sergekResearch": [
+    {
+      "type": 0,
+      "value": "Sergek Research"
+    }
+  ],
+  "home.aboutUsTitle": [
+    {
+      "type": 0,
+      "value": "🚀 About Us"
+    }
+  ],
+  "home.buildAIInfra": [
+    {
+      "type": 0,
+      "value": "Inference optimization, distributed training, hardware acceleration"
+    }
+  ],
+  "home.buildGenAI": [
+    {
+      "type": 0,
+      "value": "T2I/T2V, multimodal"
+    }
+  ],
+  "home.buildLLM": [
+    {
+      "type": 0,
+      "value": "Novel transformer architectures"
+    }
+  ],
+  "home.buildOpenSource.pttjs": [
+    {
+      "type": 0,
+      "value": "PTTJS"
+    }
+  ],
+  "home.buildOpenSource.rest": [
+    {
+      "type": 0,
+      "value": "library, CLI utilities, data pipelines"
+    }
+  ],
+  "home.logoAlt": [
+    {
+      "type": 0,
+      "value": "Sergek Research logo"
+    }
+  ],
+  "home.missionP1": [
+    {
+      "type": 0,
+      "value": "We believe the future belongs to the synergy of humans and AI."
+    }
+  ],
+  "home.missionP11": [
+    {
+      "type": 0,
+      "value": "Our goal is to accelerate that future by creating accessible, scalable, and energy-efficient technologies."
+    }
+  ],
+  "home.missionQuote": [
+    {
+      "type": 0,
+      "value": "Shorten the path from idea to innovation."
+    }
+  ],
+  "home.missionTitle": [
+    {
+      "type": 0,
+      "value": "🧭 Mission"
+    }
+  ],
+  "home.pageTitle": [
+    {
+      "type": 0,
+      "value": "Sergek Research"
+    }
+  ],
+  "home.subtitle": [
+    {
+      "type": 0,
+      "value": "Innovating with Artificial Intelligence | Exploring the Future of AI"
+    }
+  ],
+  "home.tableBuildHeader": [
+    {
+      "type": 0,
+      "value": "What We Build"
+    }
+  ],
+  "home.tableTrackHeader": [
+    {
+      "type": 0,
+      "value": "Track"
+    }
+  ],
+  "home.trackAIInfra": [
+    {
+      "type": 0,
+      "value": "AI Infrastructure"
+    }
+  ],
+  "home.trackGenAI": [
+    {
+      "type": 0,
+      "value": "Generative AI"
+    }
+  ],
+  "home.trackLLM": [
+    {
+      "type": 0,
+      "value": "LLM Research"
+    }
+  ],
+  "home.trackOpenSource": [
+    {
+      "type": 0,
+      "value": "Open-Source Tools"
+    }
+  ],
+  "home.whatWeDoTitle": [
+    {
+      "type": 0,
+      "value": "🛠️ What We Do"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "88fYU4": {
+    "defaultMessage": "English",
+    "description": "Название языка"
+  },
+  "CO4JwJ": {
+    "defaultMessage": "Русский",
+    "description": "Название языка"
+  },
+  "home.aboutUsListItem1": {
+    "defaultMessage": "conduct fundamental and applied research on neural network architectures;"
+  },
+  "home.aboutUsListItem2": {
+    "defaultMessage": "develop efficient algorithms and tools for real-world businesses;"
+  },
+  "home.aboutUsListItem3": {
+    "defaultMessage": "openly share knowledge and code with the community."
+  },
+  "home.aboutUsP1": {
+    "defaultMessage": "{sergekResearchBold} is a Kazakhstan-based research company building {nextGenBold} products and solutions at the intersection of {mlItalic}, {dlItalic}, and adjacent disciplines. We"
+  },
+  "home.aboutUsP1.dl": {
+    "defaultMessage": "deep learning"
+  },
+  "home.aboutUsP1.ml": {
+    "defaultMessage": "machine learning"
+  },
+  "home.aboutUsP1.nextGen": {
+    "defaultMessage": "next-gen"
+  },
+  "home.aboutUsP1.sergekResearch": {
+    "defaultMessage": "Sergek Research"
+  },
+  "home.aboutUsTitle": {
+    "defaultMessage": "🚀 About Us"
+  },
+  "home.buildAIInfra": {
+    "defaultMessage": "Inference optimization, distributed training, hardware acceleration"
+  },
+  "home.buildGenAI": {
+    "defaultMessage": "T2I/T2V, multimodal"
+  },
+  "home.buildLLM": {
+    "defaultMessage": "Novel transformer architectures"
+  },
+  "home.buildOpenSource.pttjs": {
+    "defaultMessage": "PTTJS"
+  },
+  "home.buildOpenSource.rest": {
+    "defaultMessage": "library, CLI utilities, data pipelines"
+  },
+  "home.logoAlt": {
+    "defaultMessage": "Sergek Research logo"
+  },
+  "home.missionP1": {
+    "defaultMessage": "We believe the future belongs to the synergy of humans and AI."
+  },
+  "home.missionP11": {
+    "defaultMessage": "Our goal is to accelerate that future by creating accessible, scalable, and energy-efficient technologies."
+  },
+  "home.missionQuote": {
+    "defaultMessage": "Shorten the path from idea to innovation."
+  },
+  "home.missionTitle": {
+    "defaultMessage": "🧭 Mission"
+  },
+  "home.pageTitle": {
+    "defaultMessage": "Sergek Research"
+  },
+  "home.subtitle": {
+    "defaultMessage": "Innovating with Artificial Intelligence | Exploring the Future of AI"
+  },
+  "home.tableBuildHeader": {
+    "defaultMessage": "What We Build"
+  },
+  "home.tableTrackHeader": {
+    "defaultMessage": "Track"
+  },
+  "home.trackAIInfra": {
+    "defaultMessage": "AI Infrastructure"
+  },
+  "home.trackGenAI": {
+    "defaultMessage": "Generative AI"
+  },
+  "home.trackLLM": {
+    "defaultMessage": "LLM Research"
+  },
+  "home.trackOpenSource": {
+    "defaultMessage": "Open-Source Tools"
+  },
+  "home.whatWeDoTitle": {
+    "defaultMessage": "🛠️ What We Do"
+  }
+}
