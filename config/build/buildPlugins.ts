@@ -25,6 +25,11 @@ export function buildPlugins({
           from: path.resolve(paths.static, 'images'),
           to: path.resolve(paths.build, 'images'),
         },
+        {
+          from: path.resolve(paths.static, 'favicon.ico'),
+          to: path.resolve(paths.build, 'favicon.ico'),
+          noErrorOnMissing: true,
+        },
       ],
     }),
     // добавляет функционал для использования .env файлв
